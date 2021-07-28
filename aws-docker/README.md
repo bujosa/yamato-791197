@@ -50,7 +50,7 @@ Cannot connect to the Docker daemon. Is the docker daemon running on this host?
 
 # Run the Go app from the previous example
 ```
-docker run -d -p 80:80 toddmcleod/golang-hello-world
+docker run -d -p 80:80 your-username/golang-hello-world
 ```
 
 # Check that it's running
