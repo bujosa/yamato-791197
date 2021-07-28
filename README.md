@@ -12,4 +12,4 @@ To run the project with docker you need to run the following command.
 ```docker run -d -p 80:80 <name of container>```
 
 # Running container example
-[]()
+![Example](/images/running-docker-container.PNG)
